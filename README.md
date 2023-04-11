@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jonathan Lenis
 ======================================================================================================================================
 
-A passionate backend developer from Argentina
+A passionate backend developer
 ---------------------------------------------
 
-* 🌍  I'm based in Buenos Aires
+* 🌍  I'm based in Argentina, Buenos Aires
 * ✉️  You can contact me at [jblenis98@gmail.com](mailto:jblenis98@gmail.com)
 * 🧠  I'm learning Django
 
